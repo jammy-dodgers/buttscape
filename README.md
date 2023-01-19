@@ -1,4 +1,4 @@
-# Plug In
+# The most literal RuneLite 'Plug In'
 
 Sex toy integration for RuneLite, using buttplug.io
 
@@ -8,7 +8,7 @@ Sex toy integration for RuneLite, using buttplug.io
 - XP drop
 - Collection log
 - Valuable drops
-- Other player chat matching regex
+- Chat matching regex
 
 ## Currently:
 - Damage received
